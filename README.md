@@ -1,1 +1,1 @@
-# This is where I host my stats blog
+# Hi, I'm James.  Feel free to read my bio.
